@@ -1,0 +1,7 @@
+1 - X^* em vez de X_* no vetor de observações da equação (1.3)
+2 - Na seção noisy observations não muito claro no por que há o subscrito n no sigma (y não indexado por n e sigma iid)
+3 - Typo na página 4 Theorem 1.5 - posses a m.s. derivative -> possess a m.s. derivative
+4 - Falta do transposto na expressão da matriz de covariância durante a definição de estacionariedade fraca
+5 - Theorem 1.3 usa continuidade em média quadrática que não foi definida antes
+6 - Falta definição de continuidade no caminho das amostras (sample path continous)
+7 - 
